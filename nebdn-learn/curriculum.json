@@ -1,0 +1,992 @@
+[
+ {
+  "topic": "Anatomy & Physiology",
+  "title": "Anatomy & Physiology",
+  "flk": "Unit 5",
+  "subtopics": [
+   {
+    "key": "ana-tooth-structure",
+    "title": "Tooth structure & the dental tissues",
+    "blurb": "Enamel, dentine, pulp and cementum: what each is made of and why it matters chairside.",
+    "lesson": "ana-tooth-structure"
+   },
+   {
+    "key": "ana-periodontium",
+    "title": "The periodontium",
+    "blurb": "The gum, ligament, cementum and bone that hold each tooth in its socket, and what happens when they break down.",
+    "lesson": "ana-periodontium"
+   },
+   {
+    "key": "ana-tooth-types",
+    "title": "Tooth types, shapes & functions",
+    "blurb": "Incisors, canines, premolars and molars: how each is shaped, how many roots it has and what it is built to do.",
+    "lesson": "ana-tooth-types"
+   },
+   {
+    "key": "ana-dentitions",
+    "title": "Deciduous & permanent dentitions",
+    "blurb": "The 20 baby teeth, the 32 adult teeth, the mixed dentition in between, and why deciduous teeth matter.",
+    "lesson": "ana-dentitions"
+   },
+   {
+    "key": "ana-eruption",
+    "title": "Tooth development & eruption dates",
+    "blurb": "How teeth form, the order and ages at which deciduous and permanent teeth erupt, and why the dates matter chairside.",
+    "lesson": "ana-eruption"
+   },
+   {
+    "key": "ana-notation",
+    "title": "Tooth notation: FDI & Palmer",
+    "blurb": "How to name any tooth in two characters: FDI two-digit numbers and Palmer grid notation, for permanent and deciduous teeth.",
+    "lesson": "ana-notation"
+   },
+   {
+    "key": "ana-surfaces",
+    "title": "Tooth surfaces & cavity classification",
+    "blurb": "Mesial, distal, occlusal, incisal, buccal, labial, lingual and palatal, plus Black's cavity classes I to V.",
+    "lesson": "ana-surfaces"
+   },
+   {
+    "key": "ana-skull",
+    "title": "The skull, maxilla, mandible & TMJ",
+    "blurb": "The bones of the skull and jaws, the landmarks of the mandible, and how the jaw joint moves.",
+    "lesson": "ana-skull"
+   },
+   {
+    "key": "ana-muscles",
+    "title": "Muscles of mastication & facial expression",
+    "blurb": "The four chewing muscles, the muscles that move the face, and the nerves that drive each group.",
+    "lesson": "ana-muscles"
+   },
+   {
+    "key": "ana-nerves",
+    "title": "Nerve supply to the teeth & mouth",
+    "blurb": "The trigeminal nerve and its branches, which teeth and tissues each one supplies, and how that decides the local anaesthetic.",
+    "lesson": "ana-nerves"
+   },
+   {
+    "key": "ana-blood-lymph",
+    "title": "Blood supply & lymph drainage of the head and neck",
+    "blurb": "How blood reaches the teeth and drains away, where the lymph nodes are, and why they matter for infection and oral cancer.",
+    "lesson": "ana-blood-lymph"
+   },
+   {
+    "key": "ana-salivary",
+    "title": "Salivary glands & saliva",
+    "blurb": "The three pairs of major salivary glands, where their ducts open, what saliva contains and why a dry mouth is a dental problem.",
+    "lesson": "ana-salivary"
+   },
+   {
+    "key": "ana-oral-cavity",
+    "title": "The oral cavity: mucosa, tongue & palate",
+    "blurb": "The landmarks of the mouth, the three types of oral mucosa, the hard and soft palate, and the tongue.",
+    "lesson": "ana-oral-cavity"
+   },
+   {
+    "key": "ana-occlusion",
+    "title": "Occlusion & the bite",
+    "blurb": "How the teeth meet: centric occlusion, overjet and overbite, the incisor classes, and checking the bite chairside.",
+    "lesson": "ana-occlusion"
+   },
+   {
+    "key": "ana-body-systems",
+    "title": "Body systems that matter in dentistry",
+    "blurb": "The heart and circulation, breathing, the nervous system and digestion: how they work and where they meet dental care.",
+    "lesson": "ana-body-systems"
+   }
+  ]
+ },
+ {
+  "topic": "Oral Disease",
+  "title": "Oral Disease",
+  "flk": "Units 5–6",
+  "subtopics": [
+   {
+    "key": "dis-plaque",
+    "title": "Dental plaque & the oral biofilm",
+    "blurb": "What plaque really is, how it hardens into calculus, where calculus builds up and why it keeps gum disease going.",
+    "lesson": "dis-plaque"
+   },
+   {
+    "key": "dis-caries-process",
+    "title": "How caries happens: the Stephan curve",
+    "blurb": "Sugar, plaque bacteria and acid: how enamel dissolves, why pH 5.5 matters and why how often you eat sugar counts more than how much.",
+    "lesson": "dis-caries-process"
+   },
+   {
+    "key": "dis-caries-progression",
+    "title": "Caries progression, types & detection",
+    "blurb": "From white spot to cavity to pulp: which stages can be reversed, where decay starts, active vs arrested lesions and how caries is found and recorded.",
+    "lesson": "dis-caries-progression"
+   },
+   {
+    "key": "dis-pulp",
+    "title": "Pulpitis, pulp death & dental abscess",
+    "blurb": "What happens when decay reaches the pulp: reversible and irreversible pulpitis, pulp necrosis, abscesses, how urgent they are and how they're treated.",
+    "lesson": "dis-pulp"
+   },
+   {
+    "key": "dis-gingivitis",
+    "title": "Gingivitis",
+    "blurb": "Red, swollen, bleeding gums: what causes gingivitis, how to recognise it, why it is fully reversible and the advice that fixes it.",
+    "lesson": "dis-gingivitis"
+   },
+   {
+    "key": "dis-periodontitis",
+    "title": "Periodontitis & the BPE",
+    "blurb": "How gum disease destroys the ligament and bone, the signs to spot, and how to record the Basic Periodontal Examination (codes 0–4 and *).",
+    "lesson": "dis-periodontitis"
+   },
+   {
+    "key": "dis-perio-risk",
+    "title": "Periodontal risk factors & systemic links",
+    "blurb": "Why the same plaque does more damage in some patients: smoking, diabetes and other risk factors, the links with general health, and what to record.",
+    "lesson": "dis-perio-risk"
+   },
+   {
+    "key": "dis-tooth-wear",
+    "title": "Tooth wear: erosion, abrasion, attrition & abfraction",
+    "blurb": "The four kinds of tooth wear: what causes each, how to tell them apart, and the advice that protects softened enamel.",
+    "lesson": "dis-tooth-wear"
+   },
+   {
+    "key": "dis-oral-cancer",
+    "title": "Oral cancer: signs, risks & urgent referral",
+    "blurb": "The risk factors, red flags and high-risk sites of mouth cancer, and why a painless ulcer lasting more than three weeks must never be ignored.",
+    "lesson": "dis-oral-cancer"
+   },
+   {
+    "key": "dis-mucosal",
+    "title": "Oral mucosal conditions & infections",
+    "blurb": "Thrush, cold sores, mouth ulcers, lichen planus, white and red patches and angular cheilitis: what they look like, what causes them and when they matter.",
+    "lesson": "dis-mucosal"
+   },
+   {
+    "key": "dis-anomalies",
+    "title": "Developmental anomalies of the teeth",
+    "blurb": "Missing and extra teeth, inherited enamel and dentine defects, fluorosis and tetracycline staining: what goes wrong while teeth form, and why.",
+    "lesson": "dis-anomalies"
+   },
+   {
+    "key": "dis-medical-conditions",
+    "title": "Medical conditions that affect dental care",
+    "blurb": "Diabetes, bleeding risks, bisphosphonates, epilepsy, heart conditions, pregnancy and dry mouth: how each changes dental care, and why an up-to-date medical history matters.",
+    "lesson": "dis-medical-conditions"
+   },
+   {
+    "key": "dis-implant-complications",
+    "title": "Implant complications & peri-implant disease",
+    "blurb": "Peri-implant mucositis versus peri-implantitis, the other things that can go wrong with implants, and how good maintenance keeps an implant healthy.",
+    "lesson": "dis-implant-complications"
+   }
+  ]
+ },
+ {
+  "topic": "Prevention & Oral Health",
+  "title": "Prevention & Oral Health",
+  "flk": "Unit 7",
+  "subtopics": [
+   {
+    "key": "prev-principles",
+    "title": "Principles of prevention & Delivering Better Oral Health",
+    "blurb": "Why prevention beats repair, the three levels of prevention, and how the UK's Delivering Better Oral Health toolkit guides every patient's advice.",
+    "lesson": "prev-principles"
+   },
+   {
+    "key": "prev-fluoride",
+    "title": "Fluoride: how it works & how it's delivered",
+    "blurb": "How fluoride protects teeth, the Delivering Better Oral Health toothpaste rules by age, and every way fluoride reaches the mouth.",
+    "lesson": "prev-fluoride"
+   },
+   {
+    "key": "prev-diet",
+    "title": "Diet, sugar & nutrition",
+    "blurb": "Free sugars, the Stephan curve, why how often matters more than how much, hidden sugars on labels, and practical diet advice.",
+    "lesson": "prev-diet"
+   },
+   {
+    "key": "prev-brushing",
+    "title": "Toothbrushing & interdental cleaning",
+    "blurb": "Effective brushing technique, manual vs powered brushes, choosing interdental aids, and using disclosing agents to show patients their plaque.",
+    "lesson": "prev-brushing"
+   },
+   {
+    "key": "prev-sealants-varnish",
+    "title": "Fissure sealants & fluoride varnish",
+    "blurb": "Two professional preventive treatments: sealing pits and fissures, and applying 22,600 ppm fluoride varnish, including how often and the nurse's role.",
+    "lesson": "prev-sealants-varnish"
+   },
+   {
+    "key": "prev-tobacco-alcohol",
+    "title": "Tobacco, vaping & alcohol: very brief advice",
+    "blurb": "How tobacco and alcohol harm the mouth, Very Brief Advice (Ask, Advise, Act), smokeless tobacco and vaping, alcohol units and the AUDIT-C tool.",
+    "lesson": "prev-tobacco-alcohol"
+   },
+   {
+    "key": "prev-behaviour-change",
+    "title": "Behaviour change & oral health education",
+    "blurb": "Why telling isn't enough: COM-B, the stages of change, motivational interviewing, SMART goals and how to deliver oral health advice that sticks.",
+    "lesson": "prev-behaviour-change"
+   },
+   {
+    "key": "prev-groups",
+    "title": "Prevention for children, older adults & special groups",
+    "blurb": "Tailoring prevention to babies and children, pregnant women, older adults, people with disabilities, orthodontic patients and the medically compromised.",
+    "lesson": "prev-groups"
+   },
+   {
+    "key": "prev-population",
+    "title": "Population oral health, inequalities & community prevention",
+    "blurb": "How oral health is measured, why it is unequal, and the community and population measures (water fluoridation, supervised toothbrushing, sugar policy) that reach everyone.",
+    "lesson": "prev-population"
+   },
+   {
+    "key": "prev-sustainability",
+    "title": "Sustainable oral healthcare",
+    "blurb": "Dentistry's environmental footprint, why prevention is the greenest care, the waste hierarchy, and practical changes a dental team can make without compromising safety.",
+    "lesson": "prev-sustainability"
+   }
+  ]
+ },
+ {
+  "topic": "Cross Infection & Decontamination",
+  "title": "Infection Control & Decontamination",
+  "flk": "Unit 5",
+  "subtopics": [
+   {
+    "key": "inf-microbes",
+    "title": "Micro-organisms & the chain of infection",
+    "blurb": "Bacteria, viruses, fungi and prions, how they spread in a dental surgery, and how every control you use breaks a link in the chain.",
+    "lesson": "inf-microbes"
+   },
+   {
+    "key": "inf-sicp",
+    "title": "Standard infection control precautions",
+    "blurb": "The ten everyday precautions you use for every patient, every time, and why contaminated gloves never leave the clinical zone.",
+    "lesson": "inf-sicp"
+   },
+   {
+    "key": "inf-hand-hygiene",
+    "title": "Hand hygiene",
+    "blurb": "The three levels of hand hygiene, the WHO 5 moments, the handwash technique step by step, and why you work bare below the elbows.",
+    "lesson": "inf-hand-hygiene"
+   },
+   {
+    "key": "inf-ppe",
+    "title": "Personal protective equipment",
+    "blurb": "Gloves, masks, eye protection and aprons: what each protects, when to change it, and the safe order for putting PPE on and taking it off.",
+    "lesson": "inf-ppe"
+   },
+   {
+    "key": "inf-immunisation",
+    "title": "Immunisation & occupational health",
+    "blurb": "Hepatitis B vaccination and why your response is checked, what sero-conversion means, and reporting skin problems and illness to protect yourself and patients.",
+    "lesson": "inf-immunisation"
+   },
+   {
+    "key": "inf-sharps",
+    "title": "Sharps safety & inoculation injuries",
+    "blurb": "What counts as a sharp, safe handling and sharps bins, the 2013 Sharps Regulations, and exactly what to do after a needlestick or splash.",
+    "lesson": "inf-sharps"
+   },
+   {
+    "key": "inf-surgery-zoning",
+    "title": "Zoning & cleaning the surgery between patients",
+    "blurb": "Clean and contaminated zones, keeping gloved hands out of clean storage, the between-patient clear-down, and colour-coded cleaning equipment.",
+    "lesson": "inf-surgery-zoning"
+   },
+   {
+    "key": "inf-decon-room",
+    "title": "The decontamination room: dirty to clean",
+    "blurb": "The one-way workflow, how the room is laid out, and what to do when clean and dirty get mixed up.",
+    "lesson": "inf-decon-room"
+   },
+   {
+    "key": "inf-cleaning",
+    "title": "Cleaning instruments: manual, ultrasonic & washer-disinfector",
+    "blurb": "Why cleaning comes before sterilising, the three cleaning methods compared, and how to inspect what comes out.",
+    "lesson": "inf-cleaning"
+   },
+   {
+    "key": "inf-sterilisation",
+    "title": "Sterilisation & autoclaves",
+    "blurb": "How steam sterilisation works, the N, B and S sterilizer types, and how to load, unload and release a load safely.",
+    "lesson": "inf-sterilisation"
+   },
+   {
+    "key": "inf-testing",
+    "title": "Testing, validation & logbooks",
+    "blurb": "Daily, weekly, quarterly and annual tests on sterilizers, washer-disinfectors and ultrasonics, and the records that prove it.",
+    "lesson": "inf-testing"
+   },
+   {
+    "key": "inf-storage",
+    "title": "Wrapping & storing instruments",
+    "blurb": "Wrapped and unwrapped storage limits, labelling for traceability, and when a pack must go back for reprocessing.",
+    "lesson": "inf-storage"
+   },
+   {
+    "key": "inf-single-use",
+    "title": "Single-use devices, symbols & prion risk",
+    "blurb": "What the crossed-out 2 means, why single-use items are never reprocessed, and how prions shape the rules for endodontic files.",
+    "lesson": "inf-single-use"
+   },
+   {
+    "key": "inf-waterlines",
+    "title": "Dental unit waterlines & Legionella",
+    "blurb": "Why biofilm grows in dental unit waterlines, the risk from Legionella, and the daily flushing and cleaning routine that keeps water safe.",
+    "lesson": "inf-waterlines"
+   },
+   {
+    "key": "inf-waste",
+    "title": "Healthcare waste segregation",
+    "blurb": "The HTM 07-01 colour code, which dental waste goes where, handling bags and sharps bins safely, and the paperwork that proves lawful disposal.",
+    "lesson": "inf-waste"
+   },
+   {
+    "key": "inf-spillages",
+    "title": "Spillages: blood, body fluids & mercury",
+    "blurb": "How to deal safely with blood and body fluid spills using the spill kit, and why a mercury spill needs a completely different approach.",
+    "lesson": "inf-spillages"
+   }
+  ]
+ },
+ {
+  "topic": "Dental Materials & Equipment",
+  "title": "Dental Materials & Equipment",
+  "flk": "Unit 6",
+  "subtopics": [
+   {
+    "key": "mat-properties",
+    "title": "How dental materials behave",
+    "blurb": "Strength, heat, shrinkage, adhesion and setting: the properties that decide which material the dentist asks for, and how you handle it.",
+    "lesson": "mat-properties"
+   },
+   {
+    "key": "mat-amalgam",
+    "title": "Amalgam & safe mercury handling",
+    "blurb": "What amalgam is made of, how to triturate and hand it over, and how to protect yourself and the environment from mercury.",
+    "lesson": "mat-amalgam"
+   },
+   {
+    "key": "mat-composite",
+    "title": "Composite, etching & bonding",
+    "blurb": "How tooth-coloured composite sticks to teeth: shade, etch, bond, cure in increments, and using the curing light safely.",
+    "lesson": "mat-composite"
+   },
+   {
+    "key": "mat-gic",
+    "title": "Glass ionomer & compomer",
+    "blurb": "The fluoride-releasing, chemically bonding materials: conventional glass ionomer, resin-modified glass ionomer and compomer, and when each is used.",
+    "lesson": "mat-gic"
+   },
+   {
+    "key": "mat-cements",
+    "title": "Liners, bases & luting cements",
+    "blurb": "Calcium hydroxide, zinc oxide eugenol, zinc phosphate, polycarboxylate, glass ionomer and resin cements: what each does, and how to mix it well.",
+    "lesson": "mat-cements"
+   },
+   {
+    "key": "mat-temporary",
+    "title": "Temporary materials & dressings",
+    "blurb": "Dressings, temporary fillings, temporary crowns and temporary cements: why they're needed, which material suits which job, and what to tell the patient.",
+    "lesson": "mat-temporary"
+   },
+   {
+    "key": "mat-impressions",
+    "title": "Impression materials & disinfection",
+    "blurb": "Alginate, silicones and polyethers: choosing the tray, mixing well, and getting an accurate, disinfected impression to the lab.",
+    "lesson": "mat-impressions"
+   },
+   {
+    "key": "mat-endo",
+    "title": "Endodontic materials & medicaments",
+    "blurb": "Files, irrigants, dressings and obturation materials for root canal treatment, plus rubber dam and safe use of sodium hypochlorite.",
+    "lesson": "mat-endo"
+   },
+   {
+    "key": "mat-hand-instruments",
+    "title": "Hand instruments & what they're for",
+    "blurb": "Examination, restorative, periodontal and surgical hand instruments: recognise each one by its job, and lay out and pass them in order.",
+    "lesson": "mat-hand-instruments"
+   },
+   {
+    "key": "mat-rotary",
+    "title": "Handpieces, burs & rotary instruments",
+    "blurb": "High-speed air turbines and slow-speed handpieces, which bur fits which handpiece, why water coolant matters, and how to look after handpieces.",
+    "lesson": "mat-rotary"
+   },
+   {
+    "key": "mat-equipment",
+    "title": "Surgery equipment: chair, suction & curing light",
+    "blurb": "The dental chair, high- and low-volume suction, the curing light, amalgamator and compressor: how to use them, check them and keep them working.",
+    "lesson": "mat-equipment"
+   },
+   {
+    "key": "mat-stock",
+    "title": "Storing, handling & stock control of materials",
+    "blurb": "Stock rotation, expiry dates, reorder levels, the medicines fridge, prescription-only medicine deliveries and COSHH storage.",
+    "lesson": "mat-stock"
+   }
+  ]
+ },
+ {
+  "topic": "Clinical Procedures",
+  "title": "Clinical Procedures",
+  "flk": "Units 5–6",
+  "subtopics": [
+   {
+    "key": "clin-chairside",
+    "title": "The dental nurse at chairside & four-handed dentistry",
+    "blurb": "Clock positions, instrument transfer, patient positioning and keeping the patient safe while the dentist works.",
+    "lesson": "clin-chairside"
+   },
+   {
+    "key": "clin-assessment",
+    "title": "Patient assessment & medical history",
+    "blurb": "Medical, social and dental history, the extra-oral and intra-oral examination, and the dental nurse's part in each.",
+    "lesson": "clin-assessment"
+   },
+   {
+    "key": "clin-charting",
+    "title": "Recording dental & periodontal charting",
+    "blurb": "FDI and Palmer notation, tooth surfaces, charting symbols, pocket charts, and recording exactly what the dentist calls.",
+    "lesson": "clin-charting"
+   },
+   {
+    "key": "clin-moisture",
+    "title": "Moisture control & aspiration",
+    "blurb": "High- and low-volume suction, rubber dam, cotton wool rolls and dry guards: keeping the field dry, clear and safe.",
+    "lesson": "clin-moisture"
+   },
+   {
+    "key": "clin-local-anaesthesia",
+    "title": "Local anaesthesia",
+    "blurb": "Infiltrations, blocks and intraligamentary injections, the common agents, cartridge checks, needle safety, aftercare and warning signs.",
+    "lesson": "clin-local-anaesthesia"
+   },
+   {
+    "key": "clin-restorative",
+    "title": "Restorative procedures: fillings",
+    "blurb": "Black's cavity classes, matrix bands and wedges, amalgam and composite trays, the bonding sequence and what to do when things go wrong.",
+    "lesson": "clin-restorative"
+   },
+   {
+    "key": "clin-endodontics",
+    "title": "Endodontics: root canal treatment",
+    "blurb": "Pulpotomy, pulpectomy and the stages of root canal treatment, with rubber dam, irrigation safety and the endo set-up.",
+    "lesson": "clin-endodontics"
+   },
+   {
+    "key": "clin-extractions",
+    "title": "Extractions & oral surgery",
+    "blurb": "Pre-op safety checks, forceps and elevators, supporting a surgical extraction, post-op instructions and dry socket.",
+    "lesson": "clin-extractions"
+   },
+   {
+    "key": "clin-periodontal",
+    "title": "Periodontal treatment",
+    "blurb": "BPE codes and what they mean for treatment, scaling and root surface debridement, the instruments, review and lifelong maintenance.",
+    "lesson": "clin-periodontal"
+   },
+   {
+    "key": "clin-fixed-prosth",
+    "title": "Crowns, bridges & veneers",
+    "blurb": "Fixed prosthodontics from shade to fit: crowns, conventional and adhesive bridges, veneers and inlays, temporaries, lab prescriptions and disinfection.",
+    "lesson": "clin-fixed-prosth"
+   },
+   {
+    "key": "clin-dentures",
+    "title": "Dentures",
+    "blurb": "Complete and partial dentures: the stages from primary impressions to fit, what you do at each visit, aftercare, common problems and relines.",
+    "lesson": "clin-dentures"
+   },
+   {
+    "key": "clin-orthodontics",
+    "title": "Orthodontics & IOTN",
+    "blurb": "How malocclusion is assessed with IOTN, fixed, removable and functional appliances, retainers, and keeping teeth healthy in braces.",
+    "lesson": "clin-orthodontics"
+   },
+   {
+    "key": "clin-implants",
+    "title": "Dental implant treatment",
+    "blurb": "What an implant is, the stages from assessment to restoration, osseointegration, the nurse's surgical role, and the complications and maintenance that keep implants healthy.",
+    "lesson": "clin-implants"
+   },
+   {
+    "key": "clin-sedation",
+    "title": "Conscious sedation & general anaesthesia",
+    "blurb": "IV midazolam and inhalation sedation, monitoring, escorts and aftercare, the sedation nurse's role and qualification, and how general anaesthesia differs.",
+    "lesson": "clin-sedation"
+   },
+   {
+    "key": "clin-investigations",
+    "title": "Special investigations: vitality tests, photos & models",
+    "blurb": "Thermal and electric pulp tests, percussion, radiographs, study models, photographs, biopsies and blood tests: how each works, your role, and recording results.",
+    "lesson": "clin-investigations"
+   },
+   {
+    "key": "clin-acute-trauma",
+    "title": "Acute conditions & dental trauma",
+    "blurb": "Triage of urgent calls, knocked-out teeth (what to replant and how to store them), fractured teeth and the Ellis classes, dry socket and bleeding after extractions.",
+    "lesson": "clin-acute-trauma"
+   },
+   {
+    "key": "clin-referral",
+    "title": "Treatment planning, referral & follow-up",
+    "blurb": "How treatment is planned, when and where patients are referred, urgent suspected cancer referrals, writing and tracking referral letters, and arranging follow-up.",
+    "lesson": "clin-referral"
+   }
+  ]
+ },
+ {
+  "topic": "Radiography",
+  "title": "Radiography",
+  "flk": "Unit 5",
+  "subtopics": [
+   {
+    "key": "rad-xrays",
+    "title": "How X-rays are produced",
+    "blurb": "Inside the tubehead: how electrons become X-rays, why most of the energy is heat, and the properties that make X-rays useful and hazardous.",
+    "lesson": "rad-xrays"
+   },
+   {
+    "key": "rad-hazards",
+    "title": "Radiation effects, dose & ALARP",
+    "blurb": "How ionising radiation harms cells, stochastic versus deterministic effects, typical dental doses and why every exposure is kept as low as reasonably practicable.",
+    "lesson": "rad-hazards"
+   },
+   {
+    "key": "rad-regulations",
+    "title": "IRR17 & IR(ME)R17: the law and its roles",
+    "blurb": "The two sets of UK regulations behind every dental X-ray: who they protect, the RPA and RPS, local rules, and the four IR(ME)R duty holders.",
+    "lesson": "rad-regulations"
+   },
+   {
+    "key": "rad-protection",
+    "title": "Radiation protection in the practice",
+    "blurb": "The controlled area, where staff stand, warning signs, protecting the patient with collimation and holders, lead aprons and thyroid collars, pregnancy, and faulty equipment.",
+    "lesson": "rad-protection"
+   },
+   {
+    "key": "rad-intraoral",
+    "title": "Intraoral radiographs: bitewing, periapical & occlusal",
+    "blurb": "The three intraoral views, what each one shows, how they are taken and how to tell them apart at a glance.",
+    "lesson": "rad-intraoral"
+   },
+   {
+    "key": "rad-extraoral",
+    "title": "Extraoral imaging: DPT, ceph & CBCT",
+    "blurb": "Panoramic (DPT/OPG), lateral cephalometric and CBCT imaging: what each shows, how the patient is prepared, and what each can't do.",
+    "lesson": "rad-extraoral"
+   },
+   {
+    "key": "rad-anatomy",
+    "title": "Normal anatomy on radiographs",
+    "blurb": "Radiolucent versus radiopaque, the normal structures around a tooth, and the landmarks you'll see on every panoramic radiograph.",
+    "lesson": "rad-anatomy"
+   },
+   {
+    "key": "rad-receptors",
+    "title": "Digital receptors & film processing",
+    "blurb": "Film, phosphor plates and digital sensors: how each records the image, how to handle and process them, and what can go wrong.",
+    "lesson": "rad-receptors"
+   },
+   {
+    "key": "rad-faults",
+    "title": "Radiograph faults & how to avoid them",
+    "blurb": "Elongation, foreshortening, overlapped contacts, cone cut, cut-off apices, blurring, reversed receptors, panoramic positioning errors and processing faults: what causes each and how to prevent it.",
+    "lesson": "rad-faults"
+   },
+   {
+    "key": "rad-quality",
+    "title": "Quality assurance & image grading",
+    "blurb": "The A/N image quality scale and its targets, the reject log, six-monthly image audits and the routine checks that keep radiography safe and consistent.",
+    "lesson": "rad-quality"
+   },
+   {
+    "key": "rad-records",
+    "title": "Justification, reporting & storing images",
+    "blurb": "The paper trail behind every radiograph: checking previous images, recording justification, clinical evaluation, and storing and sharing images securely.",
+    "lesson": "rad-records"
+   }
+  ]
+ },
+ {
+  "topic": "Medical Emergencies",
+  "title": "Medical Emergencies",
+  "flk": "Unit 10",
+  "subtopics": [
+   {
+    "key": "med-prevention",
+    "title": "Preventing emergencies & spotting the unwell patient",
+    "blurb": "Medical histories, recognising risk, team training and rehearsed roles: how a practice stops emergencies happening and catches them early.",
+    "lesson": "med-prevention"
+   },
+   {
+    "key": "med-abcde",
+    "title": "The ABCDE approach",
+    "blurb": "Airway, Breathing, Circulation, Disability, Exposure: one systematic way to assess and treat any patient who becomes unwell.",
+    "lesson": "med-abcde"
+   },
+   {
+    "key": "med-bls-adult",
+    "title": "Adult basic life support & CPR",
+    "blurb": "Recognising cardiac arrest and giving high-quality CPR: 30:2, 100–120 a minute, 5–6 cm deep, with the AED on as soon as it arrives (RCUK 2025).",
+    "lesson": "med-bls-adult"
+   },
+   {
+    "key": "med-bls-child",
+    "title": "Paediatric basic life support",
+    "blurb": "How CPR changes for infants and children: five rescue breaths first, then 15:2, compressing one third of the chest depth.",
+    "lesson": "med-bls-child"
+   },
+   {
+    "key": "med-aed",
+    "title": "Using an AED",
+    "blurb": "Switching on, pad placement, staying safe during analysis and shock, and getting straight back to CPR.",
+    "lesson": "med-aed"
+   },
+   {
+    "key": "med-choking",
+    "title": "Choking",
+    "blurb": "Telling mild from severe airway obstruction, then back blows, abdominal or chest thrusts, and CPR if the patient becomes unresponsive.",
+    "lesson": "med-choking"
+   },
+   {
+    "key": "med-anaphylaxis",
+    "title": "Anaphylaxis",
+    "blurb": "Spot a life-threatening allergic reaction fast, give IM adrenaline at the right dose and get help on the way.",
+    "lesson": "med-anaphylaxis"
+   },
+   {
+    "key": "med-asthma",
+    "title": "Asthma attack",
+    "blurb": "Recognise an acute asthma attack, help the patient use salbutamol through a spacer, and know the signs that mean 999.",
+    "lesson": "med-asthma"
+   },
+   {
+    "key": "med-cardiac",
+    "title": "Angina & heart attack",
+    "blurb": "Tell angina from a heart attack, give GTN or aspirin correctly, and know what to do if chest pain turns into cardiac arrest.",
+    "lesson": "med-cardiac"
+   },
+   {
+    "key": "med-seizures",
+    "title": "Epileptic seizures",
+    "blurb": "Keep a fitting patient safe, time the seizure, and know when buccal midazolam and a 999 call are needed.",
+    "lesson": "med-seizures"
+   },
+   {
+    "key": "med-diabetic",
+    "title": "Hypoglycaemia & diabetic emergencies",
+    "blurb": "Recognise a hypo early, treat it with oral glucose or glucagon, and know how hyperglycaemia differs.",
+    "lesson": "med-diabetic"
+   },
+   {
+    "key": "med-faint",
+    "title": "Fainting (vasovagal syncope)",
+    "blurb": "The most common emergency in the dental surgery: why patients faint, how to lie them flat and raise the legs, and how to know they've fully recovered.",
+    "lesson": "med-faint"
+   },
+   {
+    "key": "med-stroke",
+    "title": "Stroke & other emergencies",
+    "blurb": "Use FAST to spot a stroke and call 999, calm a hyperventilating patient, and recognise local anaesthetic toxicity.",
+    "lesson": "med-stroke"
+   },
+   {
+    "key": "med-drugs-kit",
+    "title": "Emergency drugs, oxygen & equipment checks",
+    "blurb": "What's in the practice emergency kit, what each drug is for, and how the team checks, logs and replaces it.",
+    "lesson": "med-drugs-kit"
+   }
+  ]
+ },
+ {
+  "topic": "Health & Safety & Law",
+  "title": "Health, Safety & the Law",
+  "flk": "Units 1 & 10",
+  "subtopics": [
+   {
+    "key": "hs-hasawa",
+    "title": "Health and Safety at Work Act & risk assessment",
+    "blurb": "Who is legally responsible for safety at work, how risk assessment works, and what you do when you spot a hazard.",
+    "lesson": "hs-hasawa"
+   },
+   {
+    "key": "hs-coshh",
+    "title": "COSHH & hazardous substances",
+    "blurb": "Hazard pictograms, safety data sheets, COSHH assessments and the hierarchy of control for the chemicals you use every day.",
+    "lesson": "hs-coshh"
+   },
+   {
+    "key": "hs-riddor",
+    "title": "RIDDOR & reporting incidents",
+    "blurb": "Which accidents, diseases and dangerous occurrences must be reported to HSE, how quickly, and why near misses matter too.",
+    "lesson": "hs-riddor"
+   },
+   {
+    "key": "hs-fire",
+    "title": "Fire safety",
+    "blurb": "The fire triangle, extinguisher colours and uses, and how to evacuate a practice when patients are reclined in the chair.",
+    "lesson": "hs-fire"
+   },
+   {
+    "key": "hs-manual-handling",
+    "title": "Manual handling & ergonomics",
+    "blurb": "Assessing a load with TILE, lifting safely, and protecting your neck, back and wrists at the chairside.",
+    "lesson": "hs-manual-handling"
+   },
+   {
+    "key": "hs-equipment-law",
+    "title": "Pressure systems, electrical & equipment safety",
+    "blurb": "PUWER, the Pressure Systems Safety Regulations for compressors and autoclaves, electrical safety and PAT, and what to do with faulty kit.",
+    "lesson": "hs-equipment-law"
+   },
+   {
+    "key": "hs-safeguarding-children",
+    "title": "Safeguarding children",
+    "blurb": "The four categories of abuse, signs the dental team may see, dental neglect, and exactly who you tell when you're worried about a child.",
+    "lesson": "hs-safeguarding-children"
+   },
+   {
+    "key": "hs-safeguarding-adults",
+    "title": "Safeguarding adults at risk",
+    "blurb": "Who counts as an adult at risk under the Care Act 2014, the types and signs of abuse, and how to raise a concern while respecting the adult's choices.",
+    "lesson": "hs-safeguarding-adults"
+   },
+   {
+    "key": "hs-regulation",
+    "title": "CQC, clinical governance & regulation",
+    "blurb": "Who regulates what in UK dentistry, CQC's five key questions, the devolved regulators, and how clinical governance and audit keep standards rising.",
+    "lesson": "hs-regulation"
+   }
+  ]
+ },
+ {
+  "topic": "Professionalism & Patient Care",
+  "title": "Professionalism & Patient Care",
+  "flk": "Units 1, 3 & 4",
+  "subtopics": [
+   {
+    "key": "pro-gdc-standards",
+    "title": "GDC Standards for the Dental Team",
+    "blurb": "The nine principles every registrant must follow, what each one means for a dental nurse, and why honesty runs through them all.",
+    "lesson": "pro-gdc-standards"
+   },
+   {
+    "key": "pro-scope",
+    "title": "Scope of practice & direct access",
+    "blurb": "What a dental nurse can do, which extra skills need training, the lines you never cross, and who patients can see without a dentist.",
+    "lesson": "pro-scope"
+   },
+   {
+    "key": "hs-data-protection",
+    "title": "Data protection & confidentiality",
+    "blurb": "UK GDPR, the Data Protection Act 2018 and the Caldicott principles: keeping patient information safe, and knowing when sharing is justified.",
+    "lesson": "hs-data-protection"
+   },
+   {
+    "key": "hs-records",
+    "title": "Clinical records: law & good practice",
+    "blurb": "What goes in a dental record, how to write and correct entries, how long records are kept, and who can see them.",
+    "lesson": "hs-records"
+   },
+   {
+    "key": "hs-consent",
+    "title": "Valid consent",
+    "blurb": "What makes consent valid, the three types, how the process should run, and what to do when a patient hesitates, refuses or wants to stop.",
+    "lesson": "hs-consent"
+   },
+   {
+    "key": "hs-capacity",
+    "title": "Mental capacity, Gillick & Fraser",
+    "blurb": "The Mental Capacity Act's five principles, how capacity is tested, best interests, and how children consent: Gillick competence versus the Fraser guidelines.",
+    "lesson": "hs-capacity"
+   },
+   {
+    "key": "pro-conduct-social",
+    "title": "Professional behaviour & social media",
+    "blurb": "Behaving professionally at work, outside work and online: boundaries with patients, gifts, phone numbers and what you must never post.",
+    "lesson": "pro-conduct-social"
+   },
+   {
+    "key": "pro-communication",
+    "title": "Communicating with patients",
+    "blurb": "Verbal and non-verbal communication, barriers and how to overcome them, interpreters, active listening and checking understanding.",
+    "lesson": "pro-communication"
+   },
+   {
+    "key": "pro-anxiety",
+    "title": "Supporting anxious & nervous patients",
+    "blurb": "Spot the signs of dental anxiety, build trust with tell-show-do, distraction and stop signals, and know when sedation is an option.",
+    "lesson": "pro-anxiety"
+   },
+   {
+    "key": "pro-additional-needs",
+    "title": "Patients with additional needs",
+    "blurb": "Physical disability, learning disability, autism, dementia and sensory loss: the reasonable adjustments that make care accessible, including domiciliary visits.",
+    "lesson": "pro-additional-needs"
+   },
+   {
+    "key": "pro-equality",
+    "title": "Equality, diversity, inclusion & cultural competence",
+    "blurb": "The Equality Act 2010 and its nine protected characteristics, direct and indirect discrimination, reasonable adjustments, interpreters, cultural competence and microaggressions.",
+    "lesson": "pro-equality"
+   },
+   {
+    "key": "pro-complaints",
+    "title": "Handling complaints",
+    "blurb": "What the GDC expects, how to respond calmly at the front line, practice procedure and timescales, and where NHS and private patients can go next.",
+    "lesson": "pro-complaints"
+   },
+   {
+    "key": "pro-candour",
+    "title": "Duty of candour & when things go wrong",
+    "blurb": "Being open and honest when something goes wrong: the professional duty every registrant has, the statutory duty on CQC-registered providers, and your role as a dental nurse.",
+    "lesson": "pro-candour"
+   },
+   {
+    "key": "pro-raising-concerns",
+    "title": "Raising concerns & whistleblowing",
+    "blurb": "GDC Principle 8, what counts as a concern, who to go to inside and outside the practice, and how the Public Interest Disclosure Act 1998 protects you.",
+    "lesson": "pro-raising-concerns"
+   },
+   {
+    "key": "pro-dental-systems",
+    "title": "NHS & private dentistry: funding and ethics",
+    "blurb": "NHS charge bands in England and what each covers, who is exempt, private fees, capitation plans and insurance, and the ethics of offering private options.",
+    "lesson": "pro-dental-systems"
+   },
+   {
+    "key": "pro-indemnity",
+    "title": "Indemnity & professional responsibility",
+    "blurb": "Why indemnity is a legal and GDC requirement, the types of cover (defence organisation, insurance, employer or NHS), and what accountability means for you.",
+    "lesson": "pro-indemnity"
+   }
+  ]
+ },
+ {
+  "topic": "Professional Development & Teamwork",
+  "title": "Professional Development & Teamwork",
+  "flk": "Units 2, 8 & 9",
+  "subtopics": [
+   {
+    "key": "dev-dental-team",
+    "title": "The dental team & the wider NHS",
+    "blurb": "The seven GDC-registered titles, the roles that aren't registered, and how dental care links into the wider NHS.",
+    "lesson": "dev-dental-team"
+   },
+   {
+    "key": "dev-teamwork",
+    "title": "Teamwork & delegation",
+    "blurb": "Delegating safely within scope and competence, supervision, handover, resolving disagreements and working as one team in an emergency.",
+    "lesson": "dev-teamwork"
+   },
+   {
+    "key": "dev-leadership",
+    "title": "Leadership & management",
+    "blurb": "How leading differs from managing, choosing a leadership style, inducting new staff, checking competence and managing your own time.",
+    "lesson": "dev-leadership"
+   },
+   {
+    "key": "dev-feedback-appraisal",
+    "title": "Feedback, appraisal & your PDP",
+    "blurb": "Giving and receiving feedback well, getting the most from appraisal, and turning it all into a personal development plan.",
+    "lesson": "dev-feedback-appraisal"
+   },
+   {
+    "key": "dev-cpd",
+    "title": "Enhanced CPD & lifelong learning",
+    "blurb": "The GDC's Enhanced CPD scheme for dental nurses: hours, verifiable evidence, development outcomes, recommended topics and your annual statement.",
+    "lesson": "dev-cpd"
+   },
+   {
+    "key": "dev-reflection",
+    "title": "Reflective practice & insight",
+    "blurb": "What reflection and insight mean, the Gibbs, Kolb and Driscoll models, and how to write reflections that change your practice.",
+    "lesson": "dev-reflection"
+   },
+   {
+    "key": "dev-evidence",
+    "title": "Evidence-based practice",
+    "blurb": "What evidence-based practice means, the hierarchy of evidence, trusted UK guidance and how to judge new products and techniques.",
+    "lesson": "dev-evidence"
+   },
+   {
+    "key": "dev-quality",
+    "title": "Audit, quality improvement & risk",
+    "blurb": "Clinical governance, the audit cycle, written protocols, risk assessment, incident reporting and significant event analysis.",
+    "lesson": "dev-quality"
+   },
+   {
+    "key": "dev-wellbeing",
+    "title": "Health & well-being: yours and the team's",
+    "blurb": "Recognising stress and burnout, coping strategies, breaks, occupational health, where to get support, and looking after your colleagues.",
+    "lesson": "dev-wellbeing"
+   },
+   {
+    "key": "dev-registration",
+    "title": "GDC registration & fitness to practise",
+    "blurb": "Joining the register when you qualify, the annual renewal, indemnity, and what fitness to practise means, what triggers it and how the process works.",
+    "lesson": "dev-registration"
+   }
+  ]
+ },
+ {
+  "topic": "Professional Discussion",
+  "title": "The Professional Discussion",
+  "flk": "Final assessment",
+  "subtopics": [
+   {
+    "key": "pd-format",
+    "title": "How the Professional Discussion works",
+    "blurb": "The final NEBDN assessment: when you take it, how long it lasts, what it is based on and what happens if you need a resit.",
+    "lesson": "pd-format"
+   },
+   {
+    "key": "pd-nine-duties",
+    "title": "The nine duties of the dental nurse",
+    "blurb": "The nine duties the discussion is built on, a way to remember them, and how they link to your Diploma units and the GDC Standards.",
+    "lesson": "pd-nine-duties"
+   },
+   {
+    "key": "pd-duties-clinical",
+    "title": "Duties 1–2: assessment, treatment & referral",
+    "blurb": "Your part in assessment, diagnosis, treatment and referral: what you do, what the dentist does, and how to talk about it within scope.",
+    "lesson": "pd-duties-clinical"
+   },
+   {
+    "key": "pd-duties-communication-leadership",
+    "title": "Duties 3–4: communication & leadership",
+    "blurb": "Communicating well, protecting confidentiality, keeping good records, and showing leadership in the team even as a newly qualified nurse.",
+    "lesson": "pd-duties-communication-leadership"
+   },
+   {
+    "key": "pd-duties-professional-inclusive",
+    "title": "Duties 5–6: professional & inclusive practice",
+    "blurb": "Working as an accountable professional within your scope, handling complaints, supporting informed decisions, and giving fair, inclusive care.",
+    "lesson": "pd-duties-professional-inclusive"
+   },
+   {
+    "key": "pd-duties-health-reflection",
+    "title": "Duties 7–9: oral health, reflection & well-being",
+    "blurb": "Promoting oral health to patients and communities, reflecting on and developing your practice, and looking after your own and your team's well-being.",
+    "lesson": "pd-duties-health-reflection"
+   },
+   {
+    "key": "pd-portfolio-evidence",
+    "title": "Using your portfolio & reflective accounts",
+    "blurb": "How your Portfolio of Evidence works, which evidence counts, how to write reflections that show insight, and how to turn it all into discussion examples.",
+    "lesson": "pd-portfolio-evidence"
+   },
+   {
+    "key": "pd-answering",
+    "title": "Answering well: structure, scope & examples",
+    "blurb": "A simple structure for every answer, the language that keeps you within scope, how to bring in reflection, and what to do when you're unsure.",
+    "lesson": "pd-answering"
+   }
+  ]
+ }
+]
